@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Caches e temporários
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Notebooks e checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar apenas os arquivos grandes do dataset
+data/2019-Oct.csv
+data/2019-Nov.csv
