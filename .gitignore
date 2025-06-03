@@ -21,3 +21,4 @@ Thumbs.db
 # Ignorar apenas os arquivos grandes do dataset
 data/2019-Oct.csv
 data/2019-Nov.csv
+data/purchases_clean.csv
