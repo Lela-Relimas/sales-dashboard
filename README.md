@@ -62,11 +62,10 @@ streamlit run app.py
 
 ## 📸 Prints
 
-> Adicione imagens reais do seu dashboard abaixo após rodar:
-
-![Dashboard Visão Geral](assets/screenshot1.png)  
-![Filtro por Data Ativado](assets/screenshot2.png)  
-![Top Categorias](assets/screenshot3.png)
+![Receitas por Dia](assets/screenshot1.png)  
+![Top 10 Categorias Vendidas](assets/screenshot2.png)  
+![Receita por Dia da Semana](assets/screenshot3.png)
+![Marcas com Mais Vendas](assets/screenshot4.png)
 
 ---
 
@@ -86,16 +85,6 @@ sales-dashboard/
 
 ---
 
-## 🌐 Deploy online (opcional)
-
-> Publicado em:  
-🔗 [Hugging Face Spaces]()  
-🔗 [Render]()
-
-*(insira o link aqui caso publique o dashboard online)*
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -104,5 +93,5 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LIC
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Seu Nome Aqui** – [LinkedIn](https://linkedin.com/in/seu-usuario)  
-Contato: seu@email.com
+Desenvolvido por **Leandro Spidalieri** – [LinkedIn](www.linkedin.com/in/leandro-spidalieri)  
+Contato: leandro.spidalieri@gmail.com
